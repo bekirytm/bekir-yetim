@@ -61,7 +61,7 @@ console.log("Bu benim uygulamam.");
 
 
 
-//GİT ve GİTHUB KULLANIMI 
+//GİT ve GİTHUB KULLANIMI    (package.json'a repository eklenmeli)
 
 //echo "# bekir-yetim" >> README.md    ->  Readme dosyası oluşturuyor.
 
@@ -74,3 +74,21 @@ console.log("Bu benim uygulamam.");
 //git remote add origin https://github.com/bekirytm/bekir-yetim.git         (Burası hangi repoya atacağımızı belirtir)
 
 //git push -u origin master            -> username  ve password yazılacak. (Güncelleme yapar)
+
+
+
+
+
+
+
+///NPM'de PAKET YAYINLAMA
+
+// npm login                           -> Bu şekilde npm hesabına giriş yapılır.
+
+// npm publish                         -> Tüm dosyalar npm'e paket olarak atılır.
+
+//Bu şekilde paketimizi npm de oluşturduk ve npm içerisinde indirme gibi bilgilere ulaşabiliriz.
+//örn: npm install bekir-yetim (Benim indirme komutum)
+
+
+// npm unpublish bekir-yetim(paket ismi)  -> Paketi hesaptan silme
