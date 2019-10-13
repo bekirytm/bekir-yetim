@@ -52,3 +52,25 @@ console.log("Bu benim uygulamam.");
 
 //Hep lazım olacak modüller(paketler)
 //  dependencies   -> package.json da bulunuyor.
+
+
+
+
+
+
+
+
+
+//GİT ve GİTHUB KULLANIMI 
+
+//echo "# bekir-yetim" >> README.md    ->  Readme dosyası oluşturuyor.
+
+//git init                             ->  Git başlatılır.
+
+//git add .                            -> Tüm dosyaları github'a atma. (Nokta tüm klasörler anlamında)
+
+//git commit -m "first commit"         -> Tüm dosyaları commite ekleme.
+
+//git remote add origin https://github.com/bekirytm/bekir-yetim.git         (Burası hangi repoya atacağımızı belirtir)
+
+//git push -u origin master            -> username  ve password yazılacak.
