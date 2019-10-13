@@ -1,0 +1,29 @@
+{
+  "name": "bekir-yetim",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bekir": "echo 'Benim Adım Bekir'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Bekir Yetim",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.4",
+    "nodemailer": "^6.3.1",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.9"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/bekirytm/bekir-yetim.git" 
+  }
+}
