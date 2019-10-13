@@ -73,4 +73,4 @@ console.log("Bu benim uygulamam.");
 
 //git remote add origin https://github.com/bekirytm/bekir-yetim.git         (Burası hangi repoya atacağımızı belirtir)
 
-//git push -u origin master            -> username  ve password yazılacak.
+//git push -u origin master            -> username  ve password yazılacak. (Güncelleme yapar)
